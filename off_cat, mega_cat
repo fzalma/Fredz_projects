@@ -1,0 +1,1724 @@
+meats,['CARNE']
+
+prepared meats,['CARNE']
+
+beverages,['BEBIDAS']
+
+dairies,['LACTEOS']
+
+fermented milk products,['LACTEOS']
+
+dairy drinks,"['LACTEOS', 'BEBIDAS']"
+
+milks,['LACTEOS']
+
+fermented drinks,['BEBIDAS']
+
+fermented milk drinks,"['LACTEOS', 'BEBIDAS']"
+
+yogurts,['LACTEOS']
+
+drinkable yogurts,"['LACTEOS', 'BEBIDAS']"
+
+salads,['HORTALIZAS']
+
+prepared salads,['HORTALIZAS']
+
+plant based foods and beverages,['BEBIDAS']
+
+seeds,['LEGUMBRES']
+
+nuts and their products,['LEGUMBRES']
+
+nuts,['LEGUMBRES']
+
+shelled nuts,['LEGUMBRES']
+
+walnuts,['LEGUMBRES']
+
+shelled walnuts,['LEGUMBRES']
+
+vegetable fats,['HORTALIZAS']
+
+vegetable oils,"['HORTALIZAS', 'LIPIDOS']"
+
+olive oils,['LIPIDOS']
+
+sweet snacks,['LIPIDOS']
+
+biscuits and cakes,['CEREALES']
+
+biscuits,['CEREALES']
+
+cereal bars,['CEREALES']
+
+cereals and potatoes,['CEREALES']
+
+cereals and their products,['CEREALES']
+
+puffed cereal cakes,['CEREALES']
+
+puffed corn cakes with black chocolate,"['CEREALES', 'LIPIDOS']"
+
+semi skimmed milks,['LACTEOS']
+
+cow milks,['LACTEOS']
+
+lactose free milk,['LACTEOS']
+
+hams,['CARNE']
+
+white hams,['CARNE']
+
+sunflower seeds and their products,['LEGUMBRES']
+
+sunflower seeds,['LEGUMBRES']
+
+shelled sunflower seeds,['LEGUMBRES']
+
+carbonated drinks,['BEBIDAS']
+
+plant based beverages,['BEBIDAS']
+
+fruit based beverages,"['FRUTAS', 'BEBIDAS']"
+
+fruit sodas,['FRUTAS']
+
+orange soft drinks,"['FRUTAS', 'BEBIDAS']"
+
+lemon soft drinks,"['FRUTAS', 'BEBIDAS']"
+
+apple soft drinks,"['FRUTAS', 'BEBIDAS']"
+
+cheeses,['LACTEOS']
+
+cow cheeses,['LACTEOS']
+
+danish cheeses,['LACTEOS']
+
+dairy desserts,['LACTEOS']
+
+dessert creams,['LACTEOS']
+
+chocolate desserts,['LIPIDOS']
+
+ice creams and sorbets,['LACTEOS']
+
+ice creams,['LACTEOS']
+
+ice cream cones,['LACTEOS']
+
+ice cream bars,['LACTEOS']
+
+roasted sunflower seeds,['LEGUMBRES']
+
+flavoured milks,['LACTEOS']
+
+chocolate milks,"['LACTEOS', 'LIPIDOS']"
+
+fruits and vegetables based foods,"['HORTALIZAS', 'FRUTAS']"
+
+fruits based foods,['FRUTAS']
+
+compotes to drink,['BEBIDAS']
+
+fruit and milk beverages,"['LACTEOS', 'FRUTAS', 'BEBIDAS']"
+
+breads,['CEREALES']
+
+sliced breads,['CEREALES']
+
+rice dishes,['CEREALES']
+
+meat based products,['CARNE']
+
+cured ham,['CARNE']
+
+dried hams,"['LEGUMBRES', 'CARNE']"
+
+spanish meat products,['CARNE']
+
+serrano ham,['CARNE']
+
+ice cream tubs,['LACTEOS']
+
+crisps,['CEREALES']
+
+potato crisps,['CEREALES']
+
+fishes,['PESCADO']
+
+canned fishes,['PESCADO']
+
+wholemeal breads,['CEREALES']
+
+wholemeal sliced breads,['CEREALES']
+
+unshelled sunflower seeds,['LEGUMBRES']
+
+roasted unshelled sunflower seeds,['LEGUMBRES']
+
+fruit and soy beverages,"['FRUTAS', 'BEBIDAS']"
+
+sweetened beverages,"['LIPIDOS', 'BEBIDAS']"
+
+unsweetened beverages,"['LIPIDOS', 'BEBIDAS']"
+
+cakes,['CEREALES']
+
+carrot cakes,['CEREALES']
+
+vegetables based foods,['HORTALIZAS']
+
+canned vegetables,['HORTALIZAS']
+
+sweet peppers,"['LEGUMBRES', 'LIPIDOS']"
+
+canned peppers,['LEGUMBRES']
+
+canned red peppers,['LEGUMBRES']
+
+pasta dishes,['CEREALES']
+
+instant pasta,['CEREALES']
+
+juices and nectars,['FRUTAS']
+
+fruit juices,['FRUTAS']
+
+multifruit juices,['FRUTAS']
+
+tomato sauces,['HORTALIZAS']
+
+legumes and their products,['HORTALIZAS']
+
+legumes,['HORTALIZAS']
+
+canned legumes,['HORTALIZAS']
+
+canned common beans,['LEGUMBRES']
+
+cereal flours,['CEREALES']
+
+hot beverages,['BEBIDAS']
+
+herbal teas,['BEBIDAS']
+
+herbal tea blends,['BEBIDAS']
+
+bee products,['LIPIDOS']
+
+sweet spreads,['LIPIDOS']
+
+sweeteners,['LIPIDOS']
+
+honeys,['LIPIDOS']
+
+rosemary honeys,['LIPIDOS']
+
+hazelnuts,['LEGUMBRES']
+
+breadsticks,['CEREALES']
+
+canned red kidney beans,['LEGUMBRES']
+
+salteados de vegetales congelados,['BEBIDAS']
+
+chocolates,['LIPIDOS']
+
+white chocolates,['LIPIDOS']
+
+cheese spreads,['LACTEOS']
+
+pastas,['CEREALES']
+
+durum wheat pasta,"['CARNE', 'CEREALES']"
+
+whole or semi whole durum wheat pasta,"['CARNE', 'CEREALES']"
+
+whole or semi whole durum wheat spaghetti,"['CARNE', 'CEREALES']"
+
+frozen fishes,['PESCADO']
+
+pumpkin and squash plant products,['HORTALIZAS']
+
+pumpkin seeds and their products,"['LEGUMBRES', 'HORTALIZAS']"
+
+pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+fish preparations,['PESCADO']
+
+legume seeds,['LEGUMBRES']
+
+chickpeas,['LEGUMBRES']
+
+canned chickpeas,['LEGUMBRES']
+
+chickpeas flours,['LEGUMBRES']
+
+dried products,['LEGUMBRES']
+
+dried products to be rehydrated,['LEGUMBRES']
+
+non dairy desserts,['LACTEOS']
+
+cream cheeses,['LACTEOS']
+
+cured sausages,['CARNE']
+
+frozen legumes,['HORTALIZAS']
+
+frozen vegetables,['HORTALIZAS']
+
+frozen fresh broad beans,['LEGUMBRES']
+
+syrups,['LIPIDOS']
+
+flavoured syrups,['LIPIDOS']
+
+strawberry syrups,['LIPIDOS']
+
+sardines,['PESCADO']
+
+canned sardines,['PESCADO']
+
+sardines in oil,"['PESCADO', 'LIPIDOS']"
+
+sardines in olive oil,"['PESCADO', 'LIPIDOS']"
+
+tunas,['PESCADO']
+
+tunas in oil,"['PESCADO', 'LIPIDOS']"
+
+tunas in sunflower oil,"['PESCADO', 'LIPIDOS', 'LEGUMBRES']"
+
+cereal grains,['CEREALES']
+
+rices,['CEREALES']
+
+japonica rices,['CEREALES']
+
+rices for risotto,['CEREALES']
+
+short grain rices,['CEREALES']
+
+arborio rices,['CEREALES']
+
+lentils,['LEGUMBRES']
+
+brown lentils,['LEGUMBRES']
+
+wheat pasta,['CEREALES']
+
+skimmed milks,['LACTEOS']
+
+dried plant based foods,['LEGUMBRES']
+
+dried seaweeds,['LEGUMBRES']
+
+dried arame seaweed,['LEGUMBRES']
+
+fruit yogurts,"['LACTEOS', 'FRUTAS']"
+
+peach yogurts,['LACTEOS']
+
+pear yogurts,['LACTEOS']
+
+pineapple yogurts,"['LACTEOS', 'FRUTAS']"
+
+strawberry yogurts,['LACTEOS']
+
+durum wheat plates for cannelloni,"['CARNE', 'CEREALES']"
+
+christmas foods and drinks,['BEBIDAS']
+
+christmas sweets,['LIPIDOS']
+
+turron,['LIPIDOS']
+
+chocolate turron,['LIPIDOS']
+
+chocolate turron with puffed rice,"['CEREALES', 'LIPIDOS']"
+
+milk substitute,['LACTEOS']
+
+plant milks,['LACTEOS']
+
+cereal milks,"['LACTEOS', 'CEREALES']"
+
+rice milks,"['LACTEOS', 'CEREALES']"
+
+chocolate candies,['LIPIDOS']
+
+chocolate truffles,['LIPIDOS']
+
+canned fruits,['FRUTAS']
+
+fruits in syrup,['FRUTAS']
+
+peaches in syrup,['FRUTAS']
+
+breakfast cereals,['CEREALES']
+
+cereal flakes,['CEREALES']
+
+mixed cereal flakes,['CEREALES']
+
+coffees,['BEBIDAS']
+
+legume milks,['LACTEOS']
+
+soy milks,['LACTEOS']
+
+vanilla soy milks,['LACTEOS']
+
+chocolate soy milks,"['LACTEOS', 'LIPIDOS']"
+
+potato crisps in sunflower oil,"['CEREALES', 'LIPIDOS', 'LEGUMBRES']"
+
+filled biscuits,['CEREALES']
+
+chocolate sandwich cookies,['LIPIDOS']
+
+chocolate biscuits,"['CEREALES', 'LIPIDOS']"
+
+dark chocolate biscuits,"['CEREALES', 'LIPIDOS']"
+
+galletas con tableta de chocolate,['LIPIDOS']
+
+galletas con tableta de chocolate negro,['LIPIDOS']
+
+bifidus yogurts,['LACTEOS']
+
+leaf vegetables,['HORTALIZAS']
+
+salad rocket,['HORTALIZAS']
+
+teas,['BEBIDAS']
+
+green teas,['BEBIDAS']
+
+vegetable rods,['HORTALIZAS']
+
+asparagus,['HORTALIZAS']
+
+frozen asparagus,['HORTALIZAS']
+
+frozen green asparagus,['HORTALIZAS']
+
+frozen chopped green asparagus,['HORTALIZAS']
+
+artificially sweetened beverages,"['LIPIDOS', 'BEBIDAS']"
+
+pine nuts,['LEGUMBRES']
+
+olives,['HORTALIZAS']
+
+green olives,['HORTALIZAS']
+
+stuffed olives,['HORTALIZAS']
+
+green stuffed olives,['HORTALIZAS']
+
+green olives stuffed of anchovies,['HORTALIZAS']
+
+fish fillets,"['PESCADO', 'CARNE']"
+
+anchovy fillets,['CARNE']
+
+chocolate croissant,['LIPIDOS']
+
+fish and meat and eggs,"['CARNE', 'PESCADO']"
+
+flavoured potato crisps,['CEREALES']
+
+ground dried aromatic plants,['LEGUMBRES']
+
+ground dried oregano,['LEGUMBRES']
+
+fruits,['FRUTAS']
+
+milk bread rolls,['LACTEOS']
+
+tomatoes and their products,['HORTALIZAS']
+
+tomato purees,['HORTALIZAS']
+
+flavoured yogurts,['LACTEOS']
+
+oilseed purees,['LIPIDOS']
+
+legume butters,['LIPIDOS']
+
+nut butters,['LIPIDOS']
+
+peanut butters,['LIPIDOS']
+
+canned fruits in juice,['FRUTAS']
+
+fruit and vegetable preserves,"['HORTALIZAS', 'FRUTAS']"
+
+jams,['LIPIDOS']
+
+plum jams,['LIPIDOS']
+
+berry jams,['LIPIDOS']
+
+strawberry jams,['LIPIDOS']
+
+fresh cheeses,['LACTEOS']
+
+tuna fillets,['CARNE']
+
+dark chocolates,['LIPIDOS']
+
+chocolate bars,['LIPIDOS']
+
+instant beverages,['BEBIDAS']
+
+decaffeinated coffees,['BEBIDAS']
+
+instant coffees,['BEBIDAS']
+
+decaffeinated instant coffees,['BEBIDAS']
+
+canned tunas,['PESCADO']
+
+wheat flours,['CEREALES']
+
+tropical fruits,['FRUTAS']
+
+frozen fruits,['FRUTAS']
+
+frozen tropical fruits,['FRUTAS']
+
+pineapple,['FRUTAS']
+
+frozen pineapples,['FRUTAS']
+
+non dairy fermented foods,['LACTEOS']
+
+non dairy yogurts,['LACTEOS']
+
+soy milk yogurts,['LACTEOS']
+
+almonds,['LEGUMBRES']
+
+pork,['CARNE']
+
+potato crisps in olive oil,"['CEREALES', 'LIPIDOS']"
+
+brown rices,['CEREALES']
+
+canned pineapples,['FRUTAS']
+
+extra virgin olive oils,['LIPIDOS']
+
+wheat bread flour,['CEREALES']
+
+soups,['HORTALIZAS']
+
+cream soups,"['LACTEOS', 'HORTALIZAS']"
+
+vegetable soups,['HORTALIZAS']
+
+cream of vegetable soups,"['LACTEOS', 'HORTALIZAS']"
+
+puffed wheat cakes,['CEREALES']
+
+cereales preparees,['CEREALES']
+
+precooked rices,['CEREALES']
+
+orange juices,['FRUTAS']
+
+squeezed orange juices,['FRUTAS']
+
+peanuts,['LEGUMBRES']
+
+coconut yogurts,['LACTEOS']
+
+bakery products,['CEREALES']
+
+spanish bakery products,['CEREALES']
+
+strawberry milks,['LACTEOS']
+
+vanilla milks,['LACTEOS']
+
+cereals with fruits,"['FRUTAS', 'CEREALES']"
+
+mueslis with fruits,['FRUTAS']
+
+ground dried vegetables,"['LEGUMBRES', 'HORTALIZAS']"
+
+meat analogues,['CARNE']
+
+veggie patties,['CARNE']
+
+sheep s milk cheeses,"['LACTEOS', 'CARNE']"
+
+lactose free yogurts,['LACTEOS']
+
+sliced cheeses,['LACTEOS']
+
+grated cheese,['LACTEOS']
+
+dried fruits,"['LEGUMBRES', 'FRUTAS']"
+
+dried apples,"['LEGUMBRES', 'FRUTAS']"
+
+crispbreads,['CEREALES']
+
+milk chocolate biscuits,"['LACTEOS', 'CEREALES', 'LIPIDOS']"
+
+galletas con tableta de chocolate con leche,['LIPIDOS']
+
+salad dressings,['HORTALIZAS']
+
+almond turron,['LIPIDOS']
+
+creamy almond turron,"['LACTEOS', 'LIPIDOS']"
+
+plain yogurts,['LACTEOS']
+
+fruit jams,"['FRUTAS', 'LIPIDOS']"
+
+hamburgers,['CARNE']
+
+whole milks,['LACTEOS']
+
+sardines in tomato sauce,"['HORTALIZAS', 'PESCADO']"
+
+sugar substitutes,['LIPIDOS']
+
+tabletop sweeteners,['LIPIDOS']
+
+chocolate cereals,"['CEREALES', 'LIPIDOS']"
+
+shelled almonds,['LEGUMBRES']
+
+natural sugar substitutes,['LIPIDOS']
+
+fresh milks,['LACTEOS']
+
+fish eggs,"['PESCADO', 'CARNE']"
+
+vanilla ice cream tubs,['LACTEOS']
+
+rice puddings,['CEREALES']
+
+milkfat,['LACTEOS']
+
+dairy spread,['LACTEOS']
+
+butters,['LIPIDOS']
+
+marinated olives,['HORTALIZAS']
+
+meals with fish,['PESCADO']
+
+limeflower tea,['BEBIDAS']
+
+flower honeys,['LIPIDOS']
+
+caramelized almonds,['LEGUMBRES']
+
+dark chocolates with orange,"['FRUTAS', 'LIPIDOS']"
+
+vanilla yogurt,['LACTEOS']
+
+apricot jams,['LIPIDOS']
+
+goat milks,['LACTEOS']
+
+energy drinks,['BEBIDAS']
+
+berries,['FRUTAS']
+
+blueberries,['FRUTAS']
+
+frozen berries,['FRUTAS']
+
+frozen blueberries,['FRUTAS']
+
+sausages,['CARNE']
+
+cocoa and chocolate powders,['LIPIDOS']
+
+chocolates with sweeteners,['LIPIDOS']
+
+dark chocolates with sweeteners,['LIPIDOS']
+
+tuna in olive oil,['LIPIDOS']
+
+green beans,['LEGUMBRES']
+
+fresh legumes,['HORTALIZAS']
+
+fresh vegetables,['HORTALIZAS']
+
+frozen green beans,['LEGUMBRES']
+
+fresh green beans,['LEGUMBRES']
+
+frozen chopped green beans,['LEGUMBRES']
+
+fresh broad green beans,['LEGUMBRES']
+
+coconut turron,['LIPIDOS']
+
+flaky biscuits,['CEREALES']
+
+flatbreads,['CEREALES']
+
+shrimps,['PESCADO']
+
+goat cheeses,['LACTEOS']
+
+canned lentils,['LEGUMBRES']
+
+salteados de vegetales asados congelados,['BEBIDAS']
+
+meals with meat,['CARNE']
+
+pork meals,['CARNE']
+
+ham pizzas,['CARNE']
+
+dried meals,['LEGUMBRES']
+
+dehydrated soups,['HORTALIZAS']
+
+leaf salads,['HORTALIZAS']
+
+duck pates,['CEREALES']
+
+chickens,['CARNE']
+
+chicken wings,['CARNE']
+
+frozen vegetable mixes,['HORTALIZAS']
+
+lupin beans,['LEGUMBRES']
+
+pickled lupin beans,['LEGUMBRES']
+
+pork pates,"['CARNE', 'CEREALES']"
+
+pork liver pates,"['CARNE', 'CEREALES']"
+
+white breads,['CEREALES']
+
+wheat breads,['CEREALES']
+
+wheat flatbreads,['CEREALES']
+
+sweet potatoes,['LIPIDOS']
+
+beet,['LIPIDOS']
+
+canned beet,['LIPIDOS']
+
+chocolate soy desserts,['LIPIDOS']
+
+christmas chocolates,['LIPIDOS']
+
+non alcoholic beverages,"['ALCOHOL', 'BEBIDAS']"
+
+creams,['LACTEOS']
+
+filled cereals,['CEREALES']
+
+oranges,['FRUTAS']
+
+mandarin oranges,['FRUTAS']
+
+sliced breads with cereals,['CEREALES']
+
+baby fruit desserts,['FRUTAS']
+
+canned cereals,['CEREALES']
+
+canned corn,['CEREALES']
+
+canned sweet corn,"['CEREALES', 'LIPIDOS']"
+
+ground coffees,['BEBIDAS']
+
+spinachs,['HORTALIZAS']
+
+frozen spinachs,['HORTALIZAS']
+
+kabuli chickpeas,['LEGUMBRES']
+
+lechoso chickpeas,['LEGUMBRES']
+
+dried vegetables,"['LEGUMBRES', 'HORTALIZAS']"
+
+dried coconut,['LEGUMBRES']
+
+dried coconut flour,['LEGUMBRES']
+
+artichokes,['HORTALIZAS']
+
+canned artichokes,['HORTALIZAS']
+
+pasteurized cheeses,['LACTEOS']
+
+herbal teas in tea bags,['BEBIDAS']
+
+peach jams,['LIPIDOS']
+
+black teas,['BEBIDAS']
+
+pineapple in juice,['FRUTAS']
+
+special breads,['CEREALES']
+
+dried mangoes,['LEGUMBRES']
+
+cereal semolinas,['CEREALES']
+
+wheat semolinas,['CEREALES']
+
+durum wheat semolinas,"['CARNE', 'CEREALES']"
+
+mixed plant milks,['LACTEOS']
+
+mushrooms and their products,['HORTALIZAS']
+
+mushrooms,['HORTALIZAS']
+
+canned mushrooms,['HORTALIZAS']
+
+canned champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+canned whole champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+sugar coated pinenuts,"['LEGUMBRES', 'LIPIDOS']"
+
+salmon fillets,['CARNE']
+
+sugar free chewing gum,['LIPIDOS']
+
+citrus jams,['LIPIDOS']
+
+orange jams,"['FRUTAS', 'LIPIDOS']"
+
+blue veined cheeses,['LACTEOS']
+
+italian cheeses,['LACTEOS']
+
+industrial cheese,['LACTEOS']
+
+egg noodles,['CARNE']
+
+egg tagliatelle,['CARNE']
+
+fruit pastes,['FRUTAS']
+
+quince cheeses,['LACTEOS']
+
+sheep milks,"['LACTEOS', 'CARNE']"
+
+cashew nuts,['LEGUMBRES']
+
+sugars,['LIPIDOS']
+
+granulated sugars,['LIPIDOS']
+
+tomato pastes,['HORTALIZAS']
+
+pork ribs,['CARNE']
+
+caesar salads,['HORTALIZAS']
+
+greek yogurts,['LACTEOS']
+
+blonde lentils,['LEGUMBRES']
+
+dried mixed fruits,"['LEGUMBRES', 'FRUTAS']"
+
+frozen mushrooms,['HORTALIZAS']
+
+frozen mixed mushrooms,['HORTALIZAS']
+
+corn,['CEREALES']
+
+iced teas,['BEBIDAS']
+
+cold soups,['HORTALIZAS']
+
+puffed rice cakes,['CEREALES']
+
+pates a tartiner,['CEREALES']
+
+chocolate spreads,['LIPIDOS']
+
+cocoa and hazelnuts spreads,['LEGUMBRES']
+
+plain bifidus yogurts,['LACTEOS']
+
+cornmeal,['CEREALES']
+
+fruit soy yogurts,"['LACTEOS', 'FRUTAS']"
+
+mixed fruit soy yogurts,"['LACTEOS', 'FRUTAS']"
+
+flax seeds,['LEGUMBRES']
+
+gold flax seeds,['LEGUMBRES']
+
+coffee capsules,['BEBIDAS']
+
+nespresso compatible coffee capsules,['BEBIDAS']
+
+textured vegetable protein,['HORTALIZAS']
+
+long grain rices,['CEREALES']
+
+cow milk yogurt,['LACTEOS']
+
+bilberries jams,"['LIPIDOS', 'FRUTAS']"
+
+fruit nectars,['FRUTAS']
+
+pineapple nectars,['FRUTAS']
+
+fried tomato sauces,['HORTALIZAS']
+
+mixed vegetable oils,"['HORTALIZAS', 'LIPIDOS']"
+
+sunflower oils,"['LIPIDOS', 'LEGUMBRES']"
+
+cooked pressed cheeses,['LACTEOS']
+
+cereal starches,['CEREALES']
+
+corn starch,['CEREALES']
+
+liquid cream,['LACTEOS']
+
+uht creams,['LACTEOS']
+
+cereal brans,['CEREALES']
+
+kiwi yogurts,['LACTEOS']
+
+cooked chicken,['CARNE']
+
+champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+whole champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+milk chocolates,"['LACTEOS', 'LIPIDOS']"
+
+stretched curd cheeses,['LACTEOS']
+
+cheesecakes,"['LACTEOS', 'CEREALES']"
+
+peppers,['LEGUMBRES']
+
+black peppers,['LEGUMBRES']
+
+ground peppers,['LEGUMBRES']
+
+ground black peppers,['LEGUMBRES']
+
+wild rice,['CEREALES']
+
+puffed cereals,['CEREALES']
+
+chocolates with almonds,"['LIPIDOS', 'LEGUMBRES']"
+
+dark chocolates with almonds,"['LIPIDOS', 'LEGUMBRES']"
+
+vegetable pickles,['HORTALIZAS']
+
+cream of asparagus soups,"['LACTEOS', 'HORTALIZAS']"
+
+stuffed pastas,['CEREALES']
+
+peppercorns,['CEREALES']
+
+black peppercorns,['CEREALES']
+
+white chocolate biscuits,"['CEREALES', 'LIPIDOS']"
+
+biscuits tablette fourree,['CEREALES']
+
+gluten free biscuits,['CEREALES']
+
+chocolate stuffed wafers,['LIPIDOS']
+
+digestives covered with chocolate,['LIPIDOS']
+
+cereal flakes with fruits,"['FRUTAS', 'CEREALES']"
+
+dried pineapple,"['LEGUMBRES', 'FRUTAS']"
+
+brown breads,['CEREALES']
+
+nut milks,['LACTEOS']
+
+almond milks,['LACTEOS']
+
+onions and their products,['HORTALIZAS']
+
+onions,['HORTALIZAS']
+
+frozen chopped onions,['HORTALIZAS']
+
+tigernut milks,['LACTEOS']
+
+chocolate turron with almonds,"['LIPIDOS', 'LEGUMBRES']"
+
+black olives,['HORTALIZAS']
+
+pitted olives,['HORTALIZAS']
+
+black pitted olives,['HORTALIZAS']
+
+whole olives,['HORTALIZAS']
+
+whole black olives,['HORTALIZAS']
+
+cereal flakes with chocolate,"['CEREALES', 'LIPIDOS']"
+
+virgin olive oils,['LIPIDOS']
+
+marinated anchovy fillets,['CARNE']
+
+marinated anchovy fillets with vegetable oil,"['HORTALIZAS', 'CARNE', 'LIPIDOS']"
+
+concentrated fruit juices,['FRUTAS']
+
+apple juices,['FRUTAS']
+
+concentrated apple juices,['FRUTAS']
+
+fried onions,['HORTALIZAS']
+
+diet beverages,['BEBIDAS']
+
+diet cola soft drink,['BEBIDAS']
+
+lemon sorbets,['FRUTAS']
+
+corn flakes,['CEREALES']
+
+apple yogurts,"['LACTEOS', 'FRUTAS']"
+
+raspberry yogurts,['LACTEOS']
+
+dry pasta,['CEREALES']
+
+whole durum wheat pasta,"['CARNE', 'CEREALES']"
+
+whole wheat spaghetti,['CEREALES']
+
+fresh meats,['CARNE']
+
+sweet cream butters,"['LACTEOS', 'LIPIDOS']"
+
+sweetened yogurts,"['LACTEOS', 'LIPIDOS']"
+
+yogurts with cereals,"['LACTEOS', 'CEREALES']"
+
+blueberry yogurts,['LACTEOS']
+
+low fat yogurts,['LACTEOS']
+
+mango yogurts,['LACTEOS']
+
+apple compotes,['FRUTAS']
+
+pickled onions,['HORTALIZAS']
+
+prepared vegetables,['HORTALIZAS']
+
+cereales desayuno,['CEREALES']
+
+canned white common beans,['LEGUMBRES']
+
+aromatic rices,['CEREALES']
+
+indica rices,['CEREALES']
+
+basmati rices,['CEREALES']
+
+wavy potato crisps,['CEREALES']
+
+dry biscuits,['CEREALES']
+
+dried fig cakes,"['LEGUMBRES', 'CEREALES']"
+
+mint,['HORTALIZAS']
+
+tomato jams,"['HORTALIZAS', 'LIPIDOS']"
+
+canned green beans,['LEGUMBRES']
+
+melted cheese,['LACTEOS']
+
+chamomile,['CARNE']
+
+pineapple juices,['FRUTAS']
+
+tea based beverages,['BEBIDAS']
+
+green pitted olives,['HORTALIZAS']
+
+broccoli,['HORTALIZAS']
+
+fresh broccoli,['HORTALIZAS']
+
+decorticated lentils,['LEGUMBRES']
+
+decorticated blonde lentils,['LEGUMBRES']
+
+oat milks,['LACTEOS']
+
+cheeses from the united kingdom,['LACTEOS']
+
+cheeses from england,['LACTEOS']
+
+cheddar cheese,['LACTEOS']
+
+unsweetened natural soy milks,"['LACTEOS', 'LIPIDOS']"
+
+cranberries,['FRUTAS']
+
+dried cranberries,"['LEGUMBRES', 'FRUTAS']"
+
+lemon juice,['FRUTAS']
+
+durum wheat macaroni,"['CARNE', 'CEREALES']"
+
+frozen cereals,['CEREALES']
+
+frozen pre cooked rice,['CEREALES']
+
+torrefacto coffees,['BEBIDAS']
+
+egg spaghetti,['CARNE']
+
+plant based pates,['CEREALES']
+
+vegetarian olive pates,['CEREALES']
+
+squeezed apple juices,['FRUTAS']
+
+cream of pumpkin soups,"['LACTEOS', 'HORTALIZAS']"
+
+cheese sauces,['LACTEOS']
+
+hamburger buns,['CARNE']
+
+lettuces,['HORTALIZAS']
+
+puffed rice cakes with milk chocolate,"['LACTEOS', 'CEREALES', 'LIPIDOS']"
+
+chocolate cereal bars,"['CEREALES', 'LIPIDOS']"
+
+ice cream sandwiches,['LACTEOS']
+
+peach nectars,['FRUTAS']
+
+lactose free creams,['LACTEOS']
+
+durum wheat penne,"['CARNE', 'CEREALES']"
+
+multifruit nectars,['FRUTAS']
+
+wine vinegars,['ALCOHOL']
+
+white wine vinegars,['ALCOHOL']
+
+pasta sauces,['CEREALES']
+
+plant based ice creams,['LACTEOS']
+
+plant based ice cream tubs,['LACTEOS']
+
+wheat brans,['CEREALES']
+
+corn chips,['CEREALES']
+
+german sausages,['CARNE']
+
+frankfurter sausages,['CARNE']
+
+fruit teas,"['FRUTAS', 'BEBIDAS']"
+
+canned asparagus,['HORTALIZAS']
+
+canned white asparagus,['HORTALIZAS']
+
+sliced champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+plant based creams,['LACTEOS']
+
+plant based creams for cooking,['LACTEOS']
+
+soy based creams for cooking,['LACTEOS']
+
+powdered sugars,['LIPIDOS']
+
+sweet potato crisps,"['LIPIDOS', 'CEREALES']"
+
+low sugar fruit jam,"['FRUTAS', 'LIPIDOS']"
+
+fruit and fruit seed oils,"['FRUTAS', 'LIPIDOS']"
+
+coconut oils,['LIPIDOS']
+
+gluten free breads,['CEREALES']
+
+gluten free sliced breads,['CEREALES']
+
+chocolate cakes,"['CEREALES', 'LIPIDOS']"
+
+light fruit sodas,['FRUTAS']
+
+light lemon soft drinks,"['FRUTAS', 'BEBIDAS']"
+
+puffed legumes,['HORTALIZAS']
+
+puffed soybeans,['LEGUMBRES']
+
+puffed rice cakes with white chocolate,"['CEREALES', 'LIPIDOS']"
+
+chocolate covered nuts,"['LEGUMBRES', 'LIPIDOS']"
+
+chocolate covered peanuts,"['LEGUMBRES', 'LIPIDOS']"
+
+lemon teas,"['FRUTAS', 'BEBIDAS']"
+
+chocolate chip cookies,['LIPIDOS']
+
+durum wheat pasta with egg,"['CARNE', 'CEREALES']"
+
+fresh flat green beans,['LEGUMBRES']
+
+popcorn,"['CEREALES', 'LEGUMBRES']"
+
+salted popcorn,"['CEREALES', 'LEGUMBRES']"
+
+light iced teas,['BEBIDAS']
+
+vanilla soy desserts,['LACTEOS']
+
+vanilla ice cream bars,['LACTEOS']
+
+mochi ice cream,['LACTEOS']
+
+sprouted mung beans,['LEGUMBRES']
+
+roasted nuts,['LEGUMBRES']
+
+shelled hazelnuts,['LEGUMBRES']
+
+roasted hazelnuts,['LEGUMBRES']
+
+blanched roasted hazelnuts,['LEGUMBRES']
+
+carrots,['HORTALIZAS']
+
+canned carrots,['HORTALIZAS']
+
+grated carrots,['HORTALIZAS']
+
+dried apricots,['LEGUMBRES']
+
+vegetable lasagne,['HORTALIZAS']
+
+green olives stuffed of peppers,"['LEGUMBRES', 'HORTALIZAS']"
+
+simple syrups,['LIPIDOS']
+
+agave syrups,['LIPIDOS']
+
+ground dried dill,['LEGUMBRES']
+
+chopped olives,['HORTALIZAS']
+
+black chopped olives,['HORTALIZAS']
+
+corn salad,"['CEREALES', 'HORTALIZAS']"
+
+banana nectars,['FRUTAS']
+
+sardines in sunflower oil,"['PESCADO', 'LIPIDOS', 'LEGUMBRES']"
+
+frozen salads,['HORTALIZAS']
+
+ground dried parsley,['LEGUMBRES']
+
+chili peppers,['LEGUMBRES']
+
+cayenne peppers,['LEGUMBRES']
+
+unshelled peanuts,['LEGUMBRES']
+
+common beans,['LEGUMBRES']
+
+pinto beans,['LEGUMBRES']
+
+ground dried rosemary,['LEGUMBRES']
+
+ground dried thyme,['LEGUMBRES']
+
+ground dried basil,['LEGUMBRES']
+
+plant based ice cream bars,['LACTEOS']
+
+white beans,['LEGUMBRES']
+
+salted butters,['LIPIDOS']
+
+handmade breadsticks,['CEREALES']
+
+sugared popcorn,"['CEREALES', 'LIPIDOS', 'LEGUMBRES']"
+
+pecan nuts,['LEGUMBRES']
+
+shelled pecan nuts,['LEGUMBRES']
+
+greek cheeses,['LACTEOS']
+
+rice flours,['CEREALES']
+
+artificial sugar substitutes,['LIPIDOS']
+
+herbal fruit teas in tea bags,"['FRUTAS', 'BEBIDAS']"
+
+apple pastes,['FRUTAS']
+
+frozen artichokes,['HORTALIZAS']
+
+frozen chopped artichokes,['HORTALIZAS']
+
+sunflower oil mayonnaises,"['LIPIDOS', 'LEGUMBRES']"
+
+eggs,['CARNE']
+
+meat preparations,['CARNE']
+
+fresh meat preparations,['CARNE']
+
+meals with chicken,['CARNE']
+
+instant noodle soups,['HORTALIZAS']
+
+plain soy yogurts,['LACTEOS']
+
+fruits cereal bars,"['FRUTAS', 'CEREALES']"
+
+apricot cereal bars,['CEREALES']
+
+canned mixed mushrooms,['HORTALIZAS']
+
+shelled pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+roasted pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+roasted shelled pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+cracked olives,['HORTALIZAS']
+
+green cracked olives,['HORTALIZAS']
+
+potted meats,['CARNE']
+
+white meat rillettes,['CARNE']
+
+chicken rillettes,['CARNE']
+
+cherries in syrup,['FRUTAS']
+
+chicken preparations,['CARNE']
+
+chicken nuggets,['CARNE']
+
+mueslis with chocolate,['LIPIDOS']
+
+strawberries,['FRUTAS']
+
+frozen strawberries,['FRUTAS']
+
+concentrated multifruit juices,['FRUTAS']
+
+cracked marinated green olives,['HORTALIZAS']
+
+gazpacha marinated green olives,['HORTALIZAS']
+
+sweet and sour sauces,['LIPIDOS']
+
+bonito del norte en aceite de oliva,"['LIPIDOS', 'PESCADO']"
+
+coconut ice cream tubs,['LACTEOS']
+
+polos de leche de soja con chocolate,['LIPIDOS']
+
+green olives stuffed of lemon,"['HORTALIZAS', 'FRUTAS']"
+
+chocolate ice cream bars,"['LACTEOS', 'LIPIDOS']"
+
+tomatoes,['HORTALIZAS']
+
+canned tomatoes,['HORTALIZAS']
+
+black beans,['LEGUMBRES']
+
+milk chocolates with sweeteners,"['LACTEOS', 'LIPIDOS']"
+
+macadamia nuts,['LEGUMBRES']
+
+buffalo s milk cheese,['LACTEOS']
+
+vegetable based foods and beverages,"['HORTALIZAS', 'BEBIDAS']"
+
+vegetable based beverages,"['HORTALIZAS', 'BEBIDAS']"
+
+vegetable juices,['HORTALIZAS']
+
+tomato juices,['HORTALIZAS']
+
+caramel chocolate cookie bars,['LIPIDOS']
+
+wheat milks,"['LACTEOS', 'CEREALES']"
+
+spelt milks,['LACTEOS']
+
+dried prunes,['LEGUMBRES']
+
+fruit turron,"['FRUTAS', 'LIPIDOS']"
+
+vegetable broths,['HORTALIZAS']
+
+dehydrated vegetable bouillons,['HORTALIZAS']
+
+vegetable bouillon cubes,['HORTALIZAS']
+
+strawberry ice cream tubs,['LACTEOS']
+
+frozen baby artichokes,['HORTALIZAS']
+
+dehydrated vegetable soups,['HORTALIZAS']
+
+cream sauce with mushrooms,"['LACTEOS', 'HORTALIZAS']"
+
+fruit yogurts with fruit chunks,"['LACTEOS', 'FRUTAS']"
+
+extra fine dark chocolates,['LIPIDOS']
+
+puffed rice cakes with black chocolate,"['CEREALES', 'LIPIDOS']"
+
+chocolates with hazelnuts,"['LEGUMBRES', 'LIPIDOS']"
+
+white chocolates with hazelnuts,"['LEGUMBRES', 'LIPIDOS']"
+
+puffed multigrain cakes,['CEREALES']
+
+lactose free cheeses,['LACTEOS']
+
+homogenized milks,['LACTEOS']
+
+uht milks,['LACTEOS']
+
+pickled carrots,['HORTALIZAS']
+
+red beans,['LEGUMBRES']
+
+refrigerated soups,['HORTALIZAS']
+
+refrigerated vegetable soups,['HORTALIZAS']
+
+rye breads,['CEREALES']
+
+sweet corn,"['CEREALES', 'LIPIDOS']"
+
+parboiled rices,"['CEREALES', 'LIPIDOS']"
+
+decaffeinated teas,['BEBIDAS']
+
+pizza with ham and cheese,"['LACTEOS', 'CARNE']"
+
+milk chocolate with almonds,"['LACTEOS', 'LIPIDOS', 'LEGUMBRES']"
+
+scarlet runner beans,['LEGUMBRES']
+
+durum wheat noodles,"['CARNE', 'CEREALES']"
+
+frozen peppers,['LEGUMBRES']
+
+dark chocolates with hazelnuts,"['LEGUMBRES', 'LIPIDOS']"
+
+cheese pizzas,['LACTEOS']
+
+mung beans,['LEGUMBRES']
+
+cream of zucchini soups,"['LACTEOS', 'HORTALIZAS']"
+
+jasmine rice,['CEREALES']
+
+peeled tomatoes,['HORTALIZAS']
+
+sushi rice,['CEREALES']
+
+mixed rices,['CEREALES']
+
+frozen meats,['CARNE']
+
+frozen meat preparations,['CARNE']
+
+pre baked breads,['CEREALES']
+
+rices for paella,['CEREALES']
+
+bomba rices,['CEREALES']
+
+filled chocolates,['LIPIDOS']
+
+mixes for dessert creams,['LACTEOS']
+
+bechamel sauces,['CARNE']
+
+caramel chocolate bars,['LIPIDOS']
+
+dairy chocolate desserts,"['LIPIDOS', 'LACTEOS']"
+
+spanish cheeses,['LACTEOS']
+
+french blue veined cheeses,['LACTEOS']
+
+roquefort cheeses,['LACTEOS']
+
+pastas de trigo duro integrales o semi integrales,['CEREALES']
+
+chocolate powders,['LIPIDOS']
+
+chocolate covered fruits,"['FRUTAS', 'LIPIDOS']"
+
+butter beans,['LEGUMBRES']
+
+frozen lima beans,['LEGUMBRES']
+
+pasta salads,"['CEREALES', 'HORTALIZAS']"
+
+frozen chickpeas,['LEGUMBRES']
+
+durum wheat spaghetti,"['CARNE', 'CEREALES']"
+
+crunchy almond turron,['LIPIDOS']
+
+german chamomile,['CARNE']
+
+fresh spinachs,['HORTALIZAS']
+
+fruit salads,"['FRUTAS', 'HORTALIZAS']"
+
+fruit salads in syrup,"['FRUTAS', 'HORTALIZAS']"
+
+brazil nuts,['LEGUMBRES']
+
+shelled brazil nuts,['LEGUMBRES']
+
+lentil salads,['HORTALIZAS']
+
+milk chocolate with hazelnuts,"['LACTEOS', 'LEGUMBRES', 'LIPIDOS']"
+
+chocolate covered almonds,"['LIPIDOS', 'LEGUMBRES']"
+
+easter eggs,['CARNE']
+
+liquorice,['CEREALES']
+
+vanilla sugars,"['LACTEOS', 'LIPIDOS']"
+
+smoked fishes,['PESCADO']
+
+french sausages,['CARNE']
+
+sausages from spain,['CARNE']
+
+frozen mixed fruits,['FRUTAS']
+
+frozen mixed berries,['FRUTAS']
+
+cassava crisps,['CEREALES']
+
+wheat flakes,['CEREALES']
+
+meat based sauces,['CARNE']
+
+meat based pasta sauces,"['CARNE', 'CEREALES']"
+
+frozen chopped spinachs,['HORTALIZAS']
+
+mint teas,"['HORTALIZAS', 'BEBIDAS']"
+
+tea bags,['BEBIDAS']
+
+mueslis with nuts,['LEGUMBRES']
+
+four cheese pizza,['LACTEOS']
+
+toasted egg yolk turron,"['LIPIDOS', 'CARNE']"
+
+thyme tea bags,['BEBIDAS']
+
+pitted marinated green olives,['HORTALIZAS']
+
+ham sandwiches,['CARNE']
+
+chicken ham,['CARNE']
+
+eucalyptus honeys,['LIPIDOS']
+
+coffee drinks,['BEBIDAS']
+
+coffee soy milks,"['LACTEOS', 'BEBIDAS']"
+
+chinese green teas,['BEBIDAS']
+
+lamb meat,['CARNE']
+
+pickled peppers,['LEGUMBRES']
+
+pickled guindilla peppers,['LEGUMBRES']
+
+evaporated milks,['LACTEOS']
+
+peanuts turron,"['LEGUMBRES', 'LIPIDOS']"
+
+crunchy peanut turron,['LIPIDOS']
+
+dried aromatic plants,['LEGUMBRES']
+
+dried bay laurel,['LEGUMBRES']
+
+ground cumin seeds,['LEGUMBRES']
+
+vegetarian sausages,['CARNE']
+
+chai teas,['BEBIDAS']
+
+vanilla,['LACTEOS']
+
+vanilla pods,['LACTEOS']
+
+atun claro en aceite de oliva,['LIPIDOS']
+
+pickled caper berries,['FRUTAS']
+
+sweet mustards,['LIPIDOS']
+
+white asparagus,['HORTALIZAS']
+
+grapefruit juices,['FRUTAS']
+
+concentrated grapefruit juices,['FRUTAS']
+
+chocolate chunks yogurts,"['LACTEOS', 'LIPIDOS']"
+
+fresh vegetable mixes,['HORTALIZAS']
+
+sweetened natural soy milks,"['LACTEOS', 'LIPIDOS']"
+
+frozen mixed peppers,['LEGUMBRES']
+
+canned sliced champignon mushrooms,"['HORTALIZAS', 'CARNE']"
+
+refrigerated squeezed pineapple juices,['FRUTAS']
+
+dried figs,['LEGUMBRES']
+
+frozen carrots,['HORTALIZAS']
+
+frozen chopped carrots,['HORTALIZAS']
+
+granizados de turron,['LIPIDOS']
+
+refrigerated squeezed multifruit juices,['FRUTAS']
+
+frozen baby carrots,['HORTALIZAS']
+
+biscuits for babies,['CEREALES']
+
+chocolate covered cherries,"['LIPIDOS', 'FRUTAS']"
+
+liquor filled chocolate covered cherries,"['LIPIDOS', 'FRUTAS']"
+
+blackberry yogurts,['LACTEOS']
+
+filled dark chocolates,['LIPIDOS']
+
+creamy peanut turron,"['LACTEOS', 'LIPIDOS']"
+
+refined olive oils,['LIPIDOS']
+
+dark chocolates with cocoa nibs,['LIPIDOS']
+
+poultry sausages,['CARNE']
+
+turkey sausages,['CARNE']
+
+spearmint,['HORTALIZAS']
+
+ground dried mint,"['LEGUMBRES', 'HORTALIZAS']"
+
+ground dried spearmint,"['LEGUMBRES', 'HORTALIZAS']"
+
+canned bloody milk cap,['LACTEOS']
+
+frozen corn,['CEREALES']
+
+frozen corn kernels,['CEREALES']
+
+flavored teas,['BEBIDAS']
+
+puffed corn cakes,['CEREALES']
+
+canned scarlet runner beans,['LEGUMBRES']
+
+barres chocolatees au lait,['LIPIDOS']
+
+white rices,['CEREALES']
+
+sugar coated almonds,"['LEGUMBRES', 'LIPIDOS']"
+
+shelled pine nuts,['LEGUMBRES']
+
+green peppers,['LEGUMBRES']
+
+green peppercorns,['CEREALES']
+
+pickled green peppercorns,['CEREALES']
+
+white peppers,['LEGUMBRES']
+
+ground white peppers,['LEGUMBRES']
+
+frozen vegetables for paella,['HORTALIZAS']
+
+unshelled pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+roasted unshelled pumpkin seeds,"['LEGUMBRES', 'HORTALIZAS']"
+
+tropical fruits soy yogurts,"['LACTEOS', 'FRUTAS']"
+
+pickled beets,['LIPIDOS']
+
+mixed vegetable pickles,['HORTALIZAS']
+
+egg free mayonnaises,['CARNE']
+
+frozen broccoli florets,['HORTALIZAS']
+
+puffed wholegrain rice cakes,['CEREALES']
+
+baby milks,['LACTEOS']
+
